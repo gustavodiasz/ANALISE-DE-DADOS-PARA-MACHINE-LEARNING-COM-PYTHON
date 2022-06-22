@@ -1,0 +1,2 @@
+# ANALISE-DE-DADOS-PARA-MACHINE-LEARNING-COM-PYTHON
+Nesse repositório você encontrará Notebooks gerados no Google Colab. Essas são as minhas anotações de um curso que estou fazendo chamado " Machine Learning e Data Science com Python de A a Z" disponível na plataforma de cursos On-line Udemy.    Em minhas anotações costumo ser bastante detalhista, então você pode aprender bastante sobre análise de dados e um pouco de Machine learning por aqui. Sinta-se confortável para aprender. Bons estudos. 
